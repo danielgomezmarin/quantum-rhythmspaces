@@ -21,7 +21,7 @@ This is the code repository for the paper *From Qubits to Rhythm: Exploring Quan
 ---
 ### Zip
 - **`videos.zip`**  
-  Zip folder containing the final ideos and their respective files.
+  Zip folder containing the final videos and their respective files.
 ---
 
 ### Data/cache files for rhythmspace precomputation
