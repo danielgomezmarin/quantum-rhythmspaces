@@ -7,7 +7,7 @@ This is the code repository for the paper *From Qubits to Rhythm: Exploring Quan
 ### Folders
 
 - **`__pycache__/`**  
-  Python bytecode cache files.
+  Python cache files.
 
 - **`midi/`**  
   MIDI files generated for percussion/rhythm outputs.
