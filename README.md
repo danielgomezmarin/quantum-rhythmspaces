@@ -19,6 +19,10 @@ This is the code repository for the paper *From Qubits to Rhythm: Exploring Quan
   Local environment folder used during development.
 
 ---
+### Zip
+- **`videos.zip`**
+  Zip folder containing the final ideos and their respective files.
+---
 
 ### Data/cache files for rhythmspace precomputation
 
