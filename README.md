@@ -20,7 +20,7 @@ This is the code repository for the paper *From Qubits to Rhythm: Exploring Quan
 
 ---
 ### Zip
-- **`videos.zip`**
+- **`videos.zip`**  
   Zip folder containing the final ideos and their respective files.
 ---
 
